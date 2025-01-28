@@ -3,4 +3,3 @@ scikit-learn==1.2.1
 numpy==1.23.5
 fastapi
 uvicorn
-pickle
